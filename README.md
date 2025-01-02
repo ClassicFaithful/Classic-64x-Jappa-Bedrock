@@ -1,4 +1,4 @@
-<img src="https://github.com/Faithful-Resource-Pack/Branding/blob/main/logos/transparent/512/cf64_logo.png?raw=true" alt="Classic Faithful 64x" align="right" height="256px">
+<img src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/cf64j_logo.png?w=256" alt="Classic Faithful 64x Jappa" align="right" height="256px">
 <div align="center">
   <h1>Classic Faithful 64x Jappa</h1>
   <h3>The 64x part in the Classic Faithful lineup, aiming to bring back the original painted look of Vattic's Faithful pack.</h3>
