@@ -2,7 +2,7 @@
   "format_version": 2,
 
   "header": {
-    "description": "Vattic's Refreshed Style in 64x \n §8By FHLX and many others",
+    "description": "Vattic's Refreshed Style in 64x\n§8By FHLX and many others",
     "name": "Classic Faithful 64x - Bedrock",
     "uuid": "b551169e-2a27-4ab8-a358-ab58b60c64b8",
     "version": [0, 0, 1],
@@ -10,7 +10,7 @@
   },
   "modules": [
     {
-      "description": "Vattic's Refreshed Style in 64x \n §8By FHLX and many others",
+      "description": "Vattic's Refreshed Style in 64x\n§8By FHLX and many others",
       "type": "resources",
       "uuid": "96228b7e-3e5d-483e-92d0-0336b5387e1e",
       "version": [
